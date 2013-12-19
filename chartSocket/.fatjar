@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Oct 18 13:31:37 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=pushSocket.jar
+manifest.mergeall=true
+manifest.mainclass=com.android.shop.server.ChartServer
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
